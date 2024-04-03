@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+.style-form{
+    background-color:rgb(2, 2, 31);
+    width:30%;
+    height: 300px;
+    border-radius: 10px;
+    margin-left: 200px;
+    padding: 15px;
+}
+.style-button{
+    background-color: rgb(12, 90, 116);
+    width:175px;
+    height: 30px;
+    border-radius: 5px;
+}
+input{
+    background-color: black;
+    height:25px;
+    border-radius: 8px;
+}
